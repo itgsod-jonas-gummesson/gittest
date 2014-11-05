@@ -2,7 +2,4 @@
 
 Me Willie, me Willie Trombone.
 
-* I
-* Will
-* Tell
-* Story
+## This is the closing of the third age.
